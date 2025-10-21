@@ -7,7 +7,7 @@
 
 ### 🧠 О себе
 - 💼 Опыт работы с **Python (pandas, pandas, numpy, matplotlib, seaborn, scipy)**  
-- 🗄️ Анализ и обработка данных из **SQL (PostgreSQL) / Excel / Google Sheets **  
+- 🗄️ Анализ и обработка данных из **SQL (PostgreSQL) / Excel / Google Sheets**  
 - 📊 Визуализация с помощью **Yandex Datalens,  Power BI, Tableau**  
 - 🧮 Интересуюсь машинным обучением и A/B тестами  
 - 📚 Постоянно учусь и делюсь знаниями в проектах open-source  
@@ -28,4 +28,4 @@
 
 ---
 
-📫 **Связаться со мной:**  
+📫 **Связаться со мной:** ososovyan@gmail.com, https://t.me/yanososov
