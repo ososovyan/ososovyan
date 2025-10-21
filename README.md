@@ -10,13 +10,14 @@
 - 🗄️ Анализ и обработка данных из **SQL (PostgreSQL) / Excel / Google Sheets**  
 - 📊 Визуализация с помощью **Yandex Datalens,  Power BI, Tableau**  
 - 🧮 Интересуюсь машинным обучением и A/B тестами  
-- 📚 Постоянно учусь и делюсь знаниями в проектах open-source  
+- 📚 Постоянно учусь и развиваюсь
 
 ---
 
 ### 🔧 Технологии и инструменты
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff)
+![Yandex DataLens](https://img.shields.io/badge/-Yandex%20DataLens-000000?logo=yandex&logoColor=FFCC00)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=fff)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=000)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=fff)
