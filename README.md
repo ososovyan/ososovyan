@@ -42,7 +42,9 @@
 
 <details>
   <summary>
+    
 🔹Pet-проект: World_Bank_data_collector (ETL/ELT-пайплайн и анализ данных)
+    
   </summary>
 
 
