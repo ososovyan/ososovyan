@@ -16,7 +16,7 @@
 
 ## 🛠 Технологический стек
 
-</table>](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff
+(https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff
 https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff
 https://img.shields.io/badge/-ETL-FF6F00?logo=apache-airflow&logoColor=fff
 https://img.shields.io/badge/-API-6DB33F?logo=swagger&logoColor=fff
