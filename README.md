@@ -20,39 +20,33 @@
   <tr>
     <td valign="top" width="33%">
 
-### ⚙️ Data Engineering
-<ul style="margin:0; padding-left:16px">
-  <li style="margin:2px 0">Python</li>
-  <li style="margin:2px 0">SQL (PostgreSQL)</li>
-  <li style="margin:2px 0">ETL / Data Pipelines</li>
-  <li style="margin:2px 0">API / Web-scraping</li>
-  <li style="margin:2px 0">pandas, numpy</li>
-</ul>
+<b>⚙️ Data Engineering</b><br>
+Python<br>
+SQL (PostgreSQL)<br>
+ETL / Data Pipelines<br>
+API / Web-scraping<br>
+pandas, numpy
 
     </td>
     <td valign="top" width="33%">
 
-### 📊 Data Analytics
-<ul style="margin:0; padding-left:16px">
-  <li style="margin:2px 0">SQL-аналитика</li>
-  <li style="margin:2px 0">pandas, matplotlib, seaborn, plotly</li>
-  <li style="margin:2px 0">A/B анализ</li>
-  <li style="margin:2px 0">Визуализация данных (Yandex DataLens)</li>
-  <li style="margin:2px 0">Статистический анализ (scipy, scikit-learn)</li>
-  <li style="margin:2px 0">Когортный анализ</li>
-</ul>
+<b>📊 Data Analytics</b><br>
+SQL-аналитика<br>
+pandas, matplotlib, seaborn, plotly<br>
+A/B анализ<br>
+Визуализация данных (Yandex DataLens)<br>
+Статистический анализ (scipy, scikit-learn)<br>
+Когортный анализ
 
     </td>
     <td valign="top" width="33%">
 
-### 🛠 Инструменты
-<ul style="margin:0; padding-left:16px">
-  <li style="margin:2px 0">Git / GitHub</li>
-  <li style="margin:2px 0">bash</li>
-  <li style="margin:2px 0">DBeaver</li>
-  <li style="margin:2px 0">Docker (базово)</li>
-  <li style="margin:2px 0">Jupyter Notebook</li>
-</ul>
+<b>🛠 Инструменты</b><br>
+Git / GitHub<br>
+bash<br>
+DBeaver<br>
+Docker (базово)<br>
+Jupyter Notebook
 
     </td>
   </tr>
