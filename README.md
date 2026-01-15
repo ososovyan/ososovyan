@@ -16,27 +16,41 @@
 
 ## 🛠 Технологический стек
 
-### Data Engineering
-- Python
-- SQL (PostgreSQL)
-- ETL / Data Pipelines
-- API / Web-scraping
-- pandas, numpy
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-### Data Analytics
-- SQL-аналитика
-- pandas, matplotlib, seaborn, plotly
-- A/B анализ
-- Визуализация данных (YandexDatalens)
-- Статичтсичекий анализ (scipy, scikit-learn)
-- Когортный анализ
+### ⚙️ Data Engineering
+- Python  
+- SQL (PostgreSQL)  
+- ETL / Data Pipelines  
+- API / Web-scraping  
+- pandas, numpy  
 
-### Инструменты
-- Git / GitHub
-- bash
-- DBeaver
-- Docker (базово)
-- Jupyter Notebook
+    </td>
+    <td valign="top" width="33%">
+
+### 📊 Data Analytics
+- SQL-аналитика  
+- pandas, matplotlib, seaborn, plotly  
+- A/B анализ  
+- Визуализация данных (Yandex DataLens)  
+- Статистический анализ (scipy, scikit-learn)  
+- Когортный анализ  
+
+    </td>
+    <td valign="top" width="33%">
+
+### 🛠 Инструменты
+- Git / GitHub  
+- bash  
+- DBeaver  
+- Docker (базово)  
+- Jupyter Notebook  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
