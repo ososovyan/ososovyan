@@ -48,10 +48,10 @@
 
 <details>
   <summary>
-🔹Pet-проект: [World_Bank_data_collector](https://github.com/ososovyan/WB_data_collector) (ETL/ELT-пайплайн и анализ данных)
+🔹Pet-проект: World_Bank_data_collector (ETL/ELT-пайплайн и анализ данных)
   </summary>
 
-
+https://github.com/ososovyan/WB_data_collector) 
 Стек: Python (Pandas, NumPy, Scikit-learn, SQLAlchemy, Requests, Tenacity), PostgreSQL (триггеры, оконные функции), Supabse, Docker, Yandex Datalens, DBeaver.
 
 Цель: Проектирование и развертывание end-to-end решения для автоматизированного сбора, подготовки и анализа данных.
@@ -73,9 +73,9 @@
 
 <details>
   <summary>
-🔹 [Другие проекты в области анализа данных](https://github.com/ososovyan/data_analyst)
+🔹 Другие проекты в области анализа данных
  </summary>
-
+https://github.com/ososovyan/data_analyst
 Стек: Python(pandas, numpy, matplotlib, scipy, seaborn), SQL,  Yandex DataLens
 Навыки: статистический анализ, когортный анализ, A/B тестирование
 
