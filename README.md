@@ -16,41 +16,13 @@
 
 ## 🛠 Технологический стек
 
-<div align="center">
-  <div style="display:inline-block; vertical-align:top; width:32%; text-align:left;">
-
-<b>Data Engineering</b><br>
-Python<br>
-SQL (PostgreSQL)<br>
-ETL / Data Pipelines<br>
-API / Web-scraping<br>
-pandas, numpy
-
-  </div>
-
-  <div style="display:inline-block; vertical-align:top; width:32%; text-align:left; margin-left:1%;">
-
-<b>Data Analytics</b><br>
-SQL-аналитика<br>
-pandas, matplotlib, seaborn, plotly<br>
-A/B анализ<br>
-Визуализация данных (Yandex DataLens)<br>
-Статистический анализ (scipy, scikit-learn)<br>
-Когортный анализ
-
-  </div>
-
-  <div style="display:inline-block; vertical-align:top; width:32%; text-align:left; margin-left:1%;">
-
-<b>Инструменты</b><br>
-Git / GitHub<br>
-bash<br>
-DBeaver<br>
-Docker (базово)<br>
-Jupyter Notebook
-
-  </div>
-</div>
+<table>
+<tr>
+<td valign="top" width="33%"><b>Data Engineering</b><br>Python<br>SQL (PostgreSQL)<br>ETL / Data Pipelines<br>API / Web-scraping<br>pandas, numpy</td>
+<td valign="top" width="33%"><b>Data Analytics</b><br>SQL-аналитика<br>pandas, matplotlib, seaborn, plotly<br>A/B анализ<br>Визуализация данных (Yandex DataLens)<br>Статистический анализ (scipy, scikit-learn)<br>Когортный анализ</td>
+<td valign="top" width="33%"><b>Инструменты</b><br>Git / GitHub<br>bash<br>DBeaver<br>Docker (базово)<br>Jupyter Notebook</td>
+</tr>
+</table>
 
 ---
 
