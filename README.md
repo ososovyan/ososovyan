@@ -16,7 +16,7 @@
 
 ## 🛠 Технологический стек
 
-(https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff
+https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff
 https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff
 https://img.shields.io/badge/-ETL-FF6F00?logo=apache-airflow&logoColor=fff
 https://img.shields.io/badge/-API-6DB33F?logo=swagger&logoColor=fff
@@ -36,7 +36,7 @@ https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff
 https://img.shields.io/badge/-bash-4EAA25?logo=gnu-bash&logoColor=fff
 https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=fff
 https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff
-https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff)
+https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff
 
 ---
 
