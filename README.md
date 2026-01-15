@@ -71,6 +71,7 @@
  </summary>
   
 [репозиторий](https://github.com/ososovyan/data_analyst)
+
 Стек: Python(pandas, numpy, matplotlib, scipy, seaborn), SQL,  Yandex DataLens
 Навыки: статистический анализ, когортный анализ, A/B тестирование
 
