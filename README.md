@@ -16,13 +16,27 @@
 
 ## 🛠 Технологический стек
 
-<table>
-<tr>
-<td valign="top" width="33%"><b>Data Engineering</b><br>Python<br>SQL (PostgreSQL)<br>ETL / Data Pipelines<br>API / Web-scraping<br>pandas, numpy</td>
-<td valign="top" width="33%"><b>Data Analytics</b><br>SQL-аналитика<br>pandas, matplotlib, seaborn, plotly<br>A/B анализ<br>Визуализация данных (Yandex DataLens)<br>Статистический анализ (scipy, scikit-learn)<br>Когортный анализ</td>
-<td valign="top" width="33%"><b>Инструменты</b><br>Git / GitHub<br>bash<br>DBeaver<br>Docker (базово)<br>Jupyter Notebook</td>
-</tr>
-</table>
+</table>](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff
+https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff
+https://img.shields.io/badge/-ETL-FF6F00?logo=apache-airflow&logoColor=fff
+https://img.shields.io/badge/-API-6DB33F?logo=swagger&logoColor=fff
+https://img.shields.io/badge/-Web%2520Scraping-2CA5E0?logo=webhooks&logoColor=fff
+https://img.shields.io/badge/-pandas-1B1F23?logo=pandas&logoColor=purple
+https://img.shields.io/badge/-NumPy-1B1F23?logo=numpy&logoColor=4DABCF
+https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff
+https://img.shields.io/badge/-matplotlib-1B1F23?logo=plotly&logoColor=5AC8FA
+https://img.shields.io/badge/-seaborn-1B1F23?logo=python&logoColor=5AC8FA
+https://img.shields.io/badge/-plotly-3F4F75?logo=plotly&logoColor=fff
+https://img.shields.io/badge/-A%252FB%2520Testing-FF6F00?logo=abtesting&logoColor=fff
+https://img.shields.io/badge/-Yandex%2520DataLens-000000?logo=yandex&logoColor=FFCC00
+https://img.shields.io/badge/-scipy-8CAAE6?logo=scipy&logoColor=fff
+https://img.shields.io/badge/-scikit%2520learn-F7931E?logo=scikit-learn&logoColor=fff
+https://img.shields.io/badge/-Cohort%2520Analysis-2CA5E0?logo=clockify&logoColor=fff
+https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff
+https://img.shields.io/badge/-bash-4EAA25?logo=gnu-bash&logoColor=fff
+https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=fff
+https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff
+https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff)
 
 ---
 
