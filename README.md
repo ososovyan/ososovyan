@@ -16,27 +16,31 @@
 
 ## 🛠 Технологический стек
 
-https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff
-https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff
-https://img.shields.io/badge/-ETL-FF6F00?logo=apache-airflow&logoColor=fff
-https://img.shields.io/badge/-API-6DB33F?logo=swagger&logoColor=fff
-https://img.shields.io/badge/-Web%2520Scraping-2CA5E0?logo=webhooks&logoColor=fff
-https://img.shields.io/badge/-pandas-1B1F23?logo=pandas&logoColor=purple
-https://img.shields.io/badge/-NumPy-1B1F23?logo=numpy&logoColor=4DABCF
-https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff
-https://img.shields.io/badge/-matplotlib-1B1F23?logo=plotly&logoColor=5AC8FA
-https://img.shields.io/badge/-seaborn-1B1F23?logo=python&logoColor=5AC8FA
-https://img.shields.io/badge/-plotly-3F4F75?logo=plotly&logoColor=fff
-https://img.shields.io/badge/-A%252FB%2520Testing-FF6F00?logo=abtesting&logoColor=fff
-https://img.shields.io/badge/-Yandex%2520DataLens-000000?logo=yandex&logoColor=FFCC00
-https://img.shields.io/badge/-scipy-8CAAE6?logo=scipy&logoColor=fff
-https://img.shields.io/badge/-scikit%2520learn-F7931E?logo=scikit-learn&logoColor=fff
-https://img.shields.io/badge/-Cohort%2520Analysis-2CA5E0?logo=clockify&logoColor=fff
-https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff
-https://img.shields.io/badge/-bash-4EAA25?logo=gnu-bash&logoColor=fff
-https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=fff
-https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff
-https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=fff)
+![ETL](https://img.shields.io/badge/-ETL-FF6F00?logo=apacheairflow&logoColor=fff)
+![API](https://img.shields.io/badge/-API-6DB33F?logo=swagger&logoColor=fff)
+![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-2CA5E0?logo=webhooks&logoColor=fff)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=fff)
+![Seaborn](https://img.shields.io/badge/-Seaborn-5C8DBC?logo=python&logoColor=fff)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=fff)
+![Yandex DataLens](https://img.shields.io/badge/-Yandex%20DataLens-000?logo=yandex&logoColor=FFCC00)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=fff)
+![A/B Testing](https://img.shields.io/badge/-A%2FB%20Testing-FF6B6B?logo=abtest&logoColor=fff)
+![Cohort Analysis](https://img.shields.io/badge/-Cohort%20Analysis-4ECDC4?logo=chartline&logoColor=fff)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=fff)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=000)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=fff)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff)
 
 ---
 
